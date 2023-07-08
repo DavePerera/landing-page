@@ -12,6 +12,7 @@ ul {
 
 .section-1 {
     display: flex;
+    background-color: aqua;
 }
 
 .sec1-left {
@@ -28,10 +29,18 @@ ul {
 
 }
 
-img {
+.sec1-image {
     width: 250px;
     height: auto;
 }
+
+#profile-image {
+    width: 150px;
+    height: auto;
+}
+
+
+
 
 
 
