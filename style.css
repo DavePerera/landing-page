@@ -92,6 +92,13 @@ ul {
     padding: 20px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
 
 
 
