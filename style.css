@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    margin: 0;
+}
+
+.section-1 {
+    display: flex;
+}
+
+.sec1-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.sec1-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+
+
+
