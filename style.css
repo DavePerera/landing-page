@@ -20,6 +20,11 @@ body {
     
 }
 
+#logo {
+    font-size: 24px;
+    font-weight: 5s00;
+}
+
 ul {
     display: flex;
     list-style: none;
@@ -43,7 +48,7 @@ ul {
     padding: 30px;
     gap: 4px;
     width: 500px;
-    height: 600px;
+    
 }
 
 /* .sec1-right {
