@@ -128,10 +128,28 @@ ul {
 .section-3 {
     display: flex;
     flex-direction: column;
-    padding: 50px;
+    padding: 120px;
     align-items: center;
-    background-color: #eeeeee;
+    background-color: #E5E7EB;
+   
 
+}
+
+.quote {
+    font-size: 32px;
+    font-style: italic;
+    color: #1F2937;
+    width: 600px;
+    height: auto;
+   
+
+}
+
+.quotee {
+    font-weight: 900;
+    margin-left: 460px;
+    
+    
 }
 
 .section-4 {
@@ -139,6 +157,7 @@ ul {
     width: 600px;
     display: flex;
     margin: auto;
+    
 
 }
 
